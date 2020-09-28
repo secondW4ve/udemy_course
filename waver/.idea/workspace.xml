@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="825703f2-82de-4a28-a34a-dc4a3d0cec30" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XfDqQAvetnwIMWTybNN8ENlYht" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last.edited.regexp" value="P4ssword " />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.28896883" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.waver.exception" />
+      <recent name="com.waver.error" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="U:\Java\WaverApp\waver\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WaverApplication (1)">
+    <configuration name="WaveControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="waver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.waver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.waver" />
+      <option name="MAIN_CLASS_NAME" value="com.waver.WaveControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaveControllerTest.deleteWave_WhenUserIsUnauthorized_receiveUnauthorized" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="waver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.waver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.waver" />
+      <option name="MAIN_CLASS_NAME" value="com.waver.WaveControllerTest" />
+      <option name="METHOD_NAME" value="deleteWave_WhenUserIsUnauthorized_receiveUnauthorized" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaveControllerTest.deleteWave_WhenWaveIsOwnedByAnotherUser_receiveForbidden" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="waver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.waver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.waver" />
+      <option name="MAIN_CLASS_NAME" value="com.waver.WaveControllerTest" />
+      <option name="METHOD_NAME" value="deleteWave_WhenWaveIsOwnedByAnotherUser_receiveForbidden" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaveControllerTest.deleteWave_whenWaveHasAttachment_attachmentRemovedFromDb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="waver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.waver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.waver" />
+      <option name="MAIN_CLASS_NAME" value="com.waver.WaveControllerTest" />
+      <option name="METHOD_NAME" value="deleteWave_whenWaveHasAttachment_attachmentRemovedFromDb" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.waver in waver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="waver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.waver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.waver" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaverApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="waver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.waver.WaverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="waver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.waver.waver.WaverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.com.waver in waver" />
+        <item itemvalue="JUnit.WaveControllerTest.deleteWave_whenWaveHasAttachment_attachmentRemovedFromDb" />
+        <item itemvalue="JUnit.WaveControllerTest.deleteWave_WhenWaveIsOwnedByAnotherUser_receiveForbidden" />
+        <item itemvalue="JUnit.WaveControllerTest" />
+        <item itemvalue="JUnit.WaveControllerTest.deleteWave_WhenUserIsUnauthorized_receiveUnauthorized" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="825703f2-82de-4a28-a34a-dc4a3d0cec30" name="Default Changelist" comment="" />
+      <created>1581428445698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581428445698</updated>
+      <workItem from="1581428449650" duration="478000" />
+      <workItem from="1581429240996" duration="877000" />
+      <workItem from="1581516125691" duration="5566000" />
+      <workItem from="1581598430130" duration="1295000" />
+      <workItem from="1581773772057" duration="1266000" />
+      <workItem from="1581852431485" duration="3028000" />
+      <workItem from="1581950573537" duration="3915000" />
+      <workItem from="1582024418199" duration="1893000" />
+      <workItem from="1582208612045" duration="1522000" />
+      <workItem from="1582219790351" duration="1176000" />
+      <workItem from="1582363561625" duration="3968000" />
+      <workItem from="1582452718094" duration="3167000" />
+      <workItem from="1582456495444" duration="81000" />
+      <workItem from="1582792434650" duration="2589000" />
+      <workItem from="1582819828300" duration="1012000" />
+      <workItem from="1582972462308" duration="1210000" />
+      <workItem from="1582991044934" duration="1744000" />
+      <workItem from="1583172790960" duration="1355000" />
+      <workItem from="1583426914287" duration="687000" />
+      <workItem from="1583684691040" duration="1041000" />
+      <workItem from="1583959241013" duration="24000" />
+      <workItem from="1584192919466" duration="428000" />
+      <workItem from="1584549389723" duration="315000" />
+      <workItem from="1584625984157" duration="825000" />
+      <workItem from="1584704706368" duration="2478000" />
+      <workItem from="1584956225312" duration="103000" />
+      <workItem from="1585055099725" duration="3380000" />
+      <workItem from="1585139443013" duration="4804000" />
+      <workItem from="1585232246797" duration="1312000" />
+      <workItem from="1585398915836" duration="2890000" />
+      <workItem from="1585404142427" duration="16000" />
+      <workItem from="1585566299772" duration="3284000" />
+      <workItem from="1585586021241" duration="1094000" />
+      <workItem from="1585655256330" duration="2054000" />
+      <workItem from="1585732296886" duration="1050000" />
+      <workItem from="1585994174185" duration="838000" />
+      <workItem from="1586760532106" duration="5701000" />
+      <workItem from="1586944155637" duration="959000" />
+      <workItem from="1586975904357" duration="1294000" />
+      <workItem from="1587632108435" duration="2715000" />
+      <workItem from="1587807882412" duration="134000" />
+      <workItem from="1588071594460" duration="5462000" />
+      <workItem from="1588083963447" duration="818000" />
+      <workItem from="1588084958803" duration="28000" />
+      <workItem from="1588085035918" duration="836000" />
+      <workItem from="1588177291602" duration="734000" />
+      <workItem from="1588250486469" duration="2673000" />
+      <workItem from="1588419827897" duration="4751000" />
+      <workItem from="1588749725024" duration="16000" />
+      <workItem from="1590411279900" duration="1091000" />
+      <workItem from="1590489751990" duration="1030000" />
+      <workItem from="1590579367183" duration="3045000" />
+      <workItem from="1591006289191" duration="705000" />
+      <workItem from="1591089100861" duration="650000" />
+      <workItem from="1591179166979" duration="4977000" />
+      <workItem from="1591200330700" duration="1285000" />
+      <workItem from="1591438020759" duration="4210000" />
+      <workItem from="1591611465491" duration="1670000" />
+      <workItem from="1591626326716" duration="2795000" />
+      <workItem from="1591695215122" duration="5084000" />
+      <workItem from="1591716249371" duration="6473000" />
+      <workItem from="1591776126987" duration="11151000" />
+      <workItem from="1592403627993" duration="762000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#Auto_Import" timestamp="1591717561502">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Auto_Import/0.0.1366.738@0.0.1366.738" timestamp="1591717561502" />
+    <state x="275" y="27" key="#Notifications" timestamp="1588071608354">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1588071608354" />
+    <state x="488" y="53" key="#com.intellij.ide.util.MemberChooser" timestamp="1591787474640">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="53" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1591787474640" />
+    <state x="363" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1588071617957">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="363" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738@0.0.1366.738" timestamp="1588071617957" />
+    <state width="1323" height="174" key="GridCell.Tab.0.bottom" timestamp="1591801702768">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591801702768" />
+    <state width="1323" height="174" key="GridCell.Tab.0.center" timestamp="1591801702768">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1591801702768" />
+    <state width="1323" height="174" key="GridCell.Tab.0.left" timestamp="1591801702768">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1591801702768" />
+    <state width="1323" height="174" key="GridCell.Tab.0.right" timestamp="1591801702768">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1591801702768" />
+    <state width="1323" height="174" key="GridCell.Tab.1.bottom" timestamp="1591801702769">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591801702769" />
+    <state width="1323" height="174" key="GridCell.Tab.1.center" timestamp="1591801702769">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1591801702769" />
+    <state width="1323" height="174" key="GridCell.Tab.1.left" timestamp="1591801702769">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1591801702769" />
+    <state width="1323" height="174" key="GridCell.Tab.1.right" timestamp="1591801702769">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1591801702769" />
+    <state x="498" y="302" key="ReplaceDuplicatesPrompt" timestamp="1591718097964">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="498" y="302" key="ReplaceDuplicatesPrompt/0.0.1366.738@0.0.1366.738" timestamp="1591718097964" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1588084992366">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1588084992366" />
+    <state x="378" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1592403659592">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="378" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1592403659592" />
+    <state x="413" y="125" width="540" height="497" key="extract.method.dialog" timestamp="1591719775364">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="125" width="540" height="497" key="extract.method.dialog/0.0.1366.738@0.0.1366.738" timestamp="1591719775364" />
+    <state x="680" y="169" key="run.anything.popup" timestamp="1591444987253">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="680" y="169" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1591444987253" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1591719609818">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1591719609818" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="country" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

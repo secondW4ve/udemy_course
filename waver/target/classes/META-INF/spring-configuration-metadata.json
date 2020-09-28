@@ -1,0 +1,29 @@
+{
+  "groups": [
+    {
+      "name": "waver",
+      "type": "com.waver.configuration.AppConfiguration",
+      "sourceType": "com.waver.configuration.AppConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "waver.attachments-folder",
+      "type": "java.lang.String",
+      "sourceType": "com.waver.configuration.AppConfiguration",
+      "defaultValue": "attachments"
+    },
+    {
+      "name": "waver.profile-images-folder",
+      "type": "java.lang.String",
+      "sourceType": "com.waver.configuration.AppConfiguration",
+      "defaultValue": "profile"
+    },
+    {
+      "name": "waver.upload-path",
+      "type": "java.lang.String",
+      "sourceType": "com.waver.configuration.AppConfiguration"
+    }
+  ],
+  "hints": []
+}
